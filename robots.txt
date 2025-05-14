@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://juda24.pl/sitemap.xml
