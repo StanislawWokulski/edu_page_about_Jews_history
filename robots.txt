@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://juda24.pl/sitemap.xml
+Sitemap: https://juda24.online/sitemap.xml
